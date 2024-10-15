@@ -1,4 +1,4 @@
-
+![logo](https://github.com/Shruti13-kothawade/Shruti13-kothawade/blob/main/Git-banner.jpg)
 <h1 align="center">Hi 👋, I'm Shruti Kothawade</h1>
 <h3 align="center">Code the future, one line at a time.</h3>
 
