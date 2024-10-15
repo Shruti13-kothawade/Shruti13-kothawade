@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Shruti Kothawade</h1>
 <h3 align="center">Code the future, one line at a time.</h3>
 
-<img align="right" alt="coding" width="400" src="![image](https://github.com/user-attachments/assets/f16bcc9a-460d-49b2-84cb-82fa7c23a779)">
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/75/8f/1c/758f1cd8cede9c3e4711306fc030f4ce.gif">
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shruti13-kothawade&label=Profile%20views&color=0e75b6&style=flat" alt="shruti13-kothawade" /> </p>
 
