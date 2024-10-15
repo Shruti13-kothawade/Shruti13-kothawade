@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Shruti Kothawade</h1>
 <h3 align="center">Code the future, one line at a time.</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fanime-girl-computer-gifs&psig=AOvVaw0JtLs1AbHr6HiAYHDw_HJc&ust=1729098474287000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCKCcgvjvkIkDFQAAAAAdAAAAABAQ">
+<img align="right" alt="coding" width="400" src="![image](https://github.com/user-attachments/assets/453beaf3-022b-490d-b9c7-64ff8fc736fc)">
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shruti13-kothawade&label=Profile%20views&color=0e75b6&style=flat" alt="shruti13-kothawade" /> </p>
 
