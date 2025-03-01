@@ -4,7 +4,6 @@
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif">
  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shruti13-kothawade&label=Profile%20views&color=0e75b6&style=flat" alt="shruti13-kothawade" /> </p>
 
 - 📫 How to reach me **kshruti.tech@gmail.com**
 
